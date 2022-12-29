@@ -16,7 +16,7 @@ Use Case Diagram:
 
 Employee Manager holds employee data with embeded version of Mongo DB and does basic operations like Create, Patch, Delete, Get, GetByCriteria (Dynamic Search), and getAll.
 Employee Director manages employee vacation, CRUD operations related to user Role.
-There are user role restrictions while doing an operations.
+There are user role restrictions while doing an operation which described in LLD document.
 Approve vacation has been handled.
 
 

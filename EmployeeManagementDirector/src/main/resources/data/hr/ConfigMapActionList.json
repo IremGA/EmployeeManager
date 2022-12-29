@@ -1,0 +1,28 @@
+{
+    "configManagerMaps" : [
+      {
+        "groupName": "HR_ADMIN",
+        "actionList": [
+          "manageEmployee",
+          "checkVacationList",
+          "requestVacation"
+        ]
+      },
+      {
+        "groupName": "MANAGER",
+        "actionList": [
+          "manageVacation",
+          "requestVacation",
+          "checkVacationList"
+        ]
+      },
+      {
+        "groupName": "EMPLOYEE",
+        "actionList": [
+          "checkVacationList",
+          "requestVacation"
+        ]
+      }
+    ]
+
+  }

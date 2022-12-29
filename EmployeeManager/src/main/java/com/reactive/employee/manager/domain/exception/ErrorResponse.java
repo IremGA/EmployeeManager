@@ -1,0 +1,15 @@
+package com.reactive.employee.manager.domain.exception;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class ErrorResponse {
+    
+    private String errorCode;
+    private String cause;
+    private String uri;
+}

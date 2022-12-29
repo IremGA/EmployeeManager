@@ -1,7 +1,7 @@
 # EmployeeManager
 Employee Manager
 
-Employee manager Contains reactive base implementation.
+Employee manager contains reactive base implementation using spring WebFlux.
 
 Java Version : 11
 Maven Verison : 3.8.1
